@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BLV.PcbDoc   2022/8/13  ÏÂÎç 05:15:04
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BLV-RoundHoles.TXT
+ASCII SlotHoles File : BLV-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             102       PTH        0.00inch (0.00mm)
+T2      18mil (0.45mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T4      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      120mil (3.048mm)                                          Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              115
+
+Total Processing Time (hh:mm:ss) : 00:00:00

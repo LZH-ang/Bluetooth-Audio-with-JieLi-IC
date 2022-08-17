@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[BLV-RoundHoles.TXT]
+   Generated File[BLV-SlotHoles.TXT]
+   Generated File[BLV.LDP]
+   Generated File[BLV.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At обнГ 05:15:04 On 2022/8/13
